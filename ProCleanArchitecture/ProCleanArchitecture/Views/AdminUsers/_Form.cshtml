@@ -1,0 +1,33 @@
+﻿@model UserFormViewModel
+
+<div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+<input type="hidden" asp-for="Id" />
+
+<div class="row g-3">
+    <div class="col-md-6">
+        <label class="form-label" asp-for="FirstName"></label>
+        <input class="form-control" asp-for="FirstName" />
+        <span class="text-danger" asp-validation-for="FirstName"></span>
+    </div>
+    <div class="col-md-6">
+        <label class="form-label" asp-for="LastName"></label>
+        <input class="form-control" asp-for="LastName" />
+        <span class="text-danger" asp-validation-for="LastName"></span>
+    </div>
+    <div class="col-md-8">
+        <label class="form-label" asp-for="Email"></label>
+        <input class="form-control" asp-for="Email" />
+        <span class="text-danger" asp-validation-for="Email"></span>
+    </div>
+    <div class="col-md-4">
+        <label class="form-label" asp-for="Role"></label>
+        <input class="form-control" asp-for="Role" />
+        <span class="text-danger" asp-validation-for="Role"></span>
+    </div>
+    <div class="col-12">
+        <div class="form-check form-switch">
+            <input class="form-check-input" asp-for="IsActive" />
+            <label class="form-check-label" asp-for="IsActive"></label>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,8 @@
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.AssemblyInfo.cs
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.RazorAssemblyInfo.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture\obj\Debug\net8.0\ProCleanArchitecture.RazorAssemblyInfo.cs

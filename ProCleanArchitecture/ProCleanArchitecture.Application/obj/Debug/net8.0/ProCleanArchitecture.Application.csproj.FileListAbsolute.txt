@@ -1,0 +1,17 @@
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\bin\Debug\net8.0\ProCleanArchitecture.Application.deps.json
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\bin\Debug\net8.0\ProCleanArchitecture.Application.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\bin\Debug\net8.0\ProCleanArchitecture.Application.pdb
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\bin\Debug\net8.0\ProCleanArchitecture.Domain.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\bin\Debug\net8.0\ProCleanArchitecture.Domain.pdb
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProClean.FDA7D6E7.Up2Date
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\refint\ProCleanArchitecture.Application.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.pdb
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ref\ProCleanArchitecture.Application.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\bin\Debug\net8.0\ProCleanArchitecture.Application.runtimeconfig.json
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Application\obj\Debug\net8.0\ProCleanArchitecture.Application.genruntimeconfig.cache

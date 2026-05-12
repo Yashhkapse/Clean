@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ProCleanArchitecture.Application/ProCleanArchitecture.Application.csproj" />
+  <Project Path="ProCleanArchitecture.Domain/ProCleanArchitecture.Domain.csproj" />
+  <Project Path="ProCleanArchitecture.Infrastructure/ProCleanArchitecture.Infrastructure.csproj" />
+  <Project Path="ProCleanArchitecture/ProCleanArchitecture.web.csproj" />
+</Solution>

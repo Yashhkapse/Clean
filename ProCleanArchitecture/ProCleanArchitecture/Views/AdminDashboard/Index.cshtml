@@ -1,0 +1,56 @@
+﻿@model AdminDashboardViewModel
+@{
+    ViewData["Title"] = "Dashboard";
+    Layout = "_AdminLayout";
+}
+
+<div class="d-flex flex-wrap justify-content-between align-items-center gap-3 mb-4">
+    <div>
+        <h1 class="admin-page-title">Dashboard</h1>
+        <div class="text-muted">Overview of products, categories, and users.</div>
+    </div>
+</div>
+
+<div class="row g-3 mb-4">
+    <div class="col-md-6 col-xl-3">
+        <div class="admin-card h-100">
+            <div class="metric-label">Total products</div>
+            <div class="metric-value">@Model.TotalProducts</div>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="admin-card h-100">
+            <div class="metric-label">Active products</div>
+            <div class="metric-value">@Model.ActiveProducts</div>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="admin-card h-100">
+            <div class="metric-label">Categories</div>
+            <div class="metric-value">@Model.TotalCategories</div>
+        </div>
+    </div>
+    <div class="col-md-6 col-xl-3">
+        <div class="admin-card h-100">
+            <div class="metric-label">Active users</div>
+            <div class="metric-value">@Model.ActiveUsers</div>
+        </div>
+    </div>
+</div>
+
+<div class="row g-3">
+    <div class="col-lg-6">
+        <div class="admin-card h-100">
+            <h2 class="h5 mb-2">Product Management</h2>
+            <p class="text-muted mb-3">Maintain catalog details, pricing, status, and category assignments.</p>
+            <a class="btn btn-primary" asp-controller="AdminProducts" asp-action="Index">Manage Products</a>
+        </div>
+    </div>
+    <div class="col-lg-6">
+        <div class="admin-card h-100">
+            <h2 class="h5 mb-2">User Management</h2>
+            <p class="text-muted mb-3">Create, update, search, and review admin users.</p>
+            <a class="btn btn-primary" asp-controller="AdminUsers" asp-action="Index">Manage Users</a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,14 @@
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\bin\Debug\net8.0\ProCleanArchitecture.Domain.deps.json
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\bin\Debug\net8.0\ProCleanArchitecture.Domain.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\bin\Debug\net8.0\ProCleanArchitecture.Domain.pdb
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\refint\ProCleanArchitecture.Domain.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.pdb
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ref\ProCleanArchitecture.Domain.dll
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\bin\Debug\net8.0\ProCleanArchitecture.Domain.runtimeconfig.json
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\Yash\source\repos\ProCleanArchitecture\ProCleanArchitecture.Domain\obj\Debug\net8.0\ProCleanArchitecture.Domain.genruntimeconfig.cache

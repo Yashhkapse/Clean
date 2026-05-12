@@ -1,0 +1,53 @@
+@{
+    var controller = ViewContext.RouteData.Values["controller"]?.ToString();
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Product management</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/admin.css" asp-append-version="true" />
+</head>
+<body>
+    <div class="admin-shell">
+        <aside class="admin-sidebar">
+            <a class="admin-brand" asp-controller="AdminDashboard" asp-action="Index">Product management</a>
+            <nav class="d-grid gap-1">
+                <a class="admin-nav-link @(controller == "AdminDashboard" ? "active" : "")" asp-controller="AdminDashboard" asp-action="Index">
+                    <span aria-hidden="true">&#9638;</span>
+                    <span>Dashboard</span>
+                </a>
+                <a class="admin-nav-link @(controller == "AdminProducts" ? "active" : "")" asp-controller="AdminProducts" asp-action="Index">
+                    <span aria-hidden="true">&#9633;</span>
+                    <span>Products</span>
+                </a>
+                <a class="admin-nav-link @(controller == "AdminUsers" ? "active" : "")" asp-controller="AdminUsers" asp-action="Index">
+                    <span aria-hidden="true">&#9679;</span>
+                    <span>Users</span>
+                </a>
+            </nav>
+        </aside>
+        <div class="admin-main">
+            <header class="admin-navbar d-flex align-items-center justify-content-between">
+                <div>
+                    <div class="text-muted small">Admin Console</div>
+                    <strong>@ViewData["Title"]</strong>
+                </div>
+                <div class="d-flex align-items-center gap-2">
+                    <a class="btn btn-outline-secondary btn-sm" asp-controller="AdminProducts" asp-action="Create">New Product</a>
+                    <a class="btn btn-primary btn-sm" asp-controller="AdminUsers" asp-action="Create">New User</a>
+                </div>
+            </header>
+            <main class="admin-content" role="main">
+                @RenderBody()
+            </main>
+        </div>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

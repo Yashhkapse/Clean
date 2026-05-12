@@ -1,0 +1,38 @@
+@model IEnumerable<ProCleanArchitecture.Domain.Entities.Category>
+
+@{
+    ViewData["Title"] = "Categories";
+    Layout = "_AdminLayout";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <div>
+        <h1 class="admin-page-title">Categories</h1>
+        <div class="text-muted">System-managed category list used by product forms.</div>
+    </div>
+</div>
+
+@if (TempData["InfoMessage"] is string infoMessage)
+{
+    <div class="alert alert-info">@infoMessage</div>
+}
+
+<div class="admin-card">
+    <div class="table-responsive">
+        <table class="table table-hover mb-0">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,574 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\adminproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\adminproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\adminproducts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\adminproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\adminproducts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\enums\\productstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\enums\\productstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\enums\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\procleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\procleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|solutionrelative:procleanarchitecture.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|solutionrelative:procleanarchitecture.infrastructure\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|solutionrelative:procleanarchitecture.infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|solutionrelative:procleanarchitecture.application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|solutionrelative:procleanarchitecture.application\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.infrastructure\\migrations\\20260511091226_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|solutionrelative:procleanarchitecture.infrastructure\\migrations\\20260511091226_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\procleanarchitecture.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\procleanarchitecture.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|solutionrelative:procleanarchitecture.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF806EB8-B2A2-05F7-B3E1-36877C766523}|ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj|solutionrelative:procleanarchitecture.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|solutionrelative:procleanarchitecture.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.infrastructure\\procleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A614D205-0B08-A270-3AAA-5C861E78C32E}|ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj|solutionrelative:procleanarchitecture.infrastructure\\procleanarchitecture.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7460E4C-EC85-B5C0-09B2-6118F6BF73C4}|ProCleanArchitecture\\ProCleanArchitecture.web.csproj|solutionrelative:procleanarchitecture\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.application\\procleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|solutionrelative:procleanarchitecture.application\\procleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|c:\\users\\yash\\source\\repos\\procleanarchitecture\\procleanarchitecture.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4938E4E-B985-5D0B-F6DD-6AF9B4B17FF6}|ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj|solutionrelative:procleanarchitecture.application\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Category\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProCleanArchitecture\\Views\\Category\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProCleanArchitecture\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\AdminProducts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminProducts\\Index.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\AdminProducts\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:07:27.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminProducts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\AdminProducts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminProducts\\Details.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\AdminProducts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:04:02.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminProducts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\AdminProducts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminProducts\\Create.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\AdminProducts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:02:53.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T10:32:15.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T10:31:03.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProCleanArchitecture.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\ProCleanArchitecture.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T05:23:33.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Enums\\ProductType.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\Enums\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Enums\\ProductType.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\Enums\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:20:39.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Program.cs",
+              "RelativeToolTip": "ProCleanArchitecture\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:56:34.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\AdminDashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\AdminDashboard\\Index.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\AdminDashboard\\Index.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwC8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-12T10:04:54.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T10:33:45.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProCleanArchitecture\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwBkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:56:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Enums\\ProductStatus.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\Enums\\ProductStatus.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Enums\\ProductStatus.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\Enums\\ProductStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:20:02.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProCleanArchitecture\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:24:39.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ProCleanArchitecture\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:32:51.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:28:16.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:22:08.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:48:39.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Infrastructure\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:59:28.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T08:19:05.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T10:34:23.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Application\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:50:09.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Application\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Application\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:49:36.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T10:26:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20260511091226_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Migrations\\20260511091226_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Infrastructure\\Migrations\\20260511091226_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Migrations\\20260511091226_InitialCreate.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Infrastructure\\Migrations\\20260511091226_InitialCreate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T09:12:27.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:24:20.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProCleanArchitecture.web.csproj",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\ProCleanArchitecture.web.csproj",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\ProCleanArchitecture.web.csproj",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\ProCleanArchitecture.web.csproj",
+              "RelativeToolTip": "ProCleanArchitecture\\ProCleanArchitecture.web.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T05:46:42.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\appsettings.json",
+              "RelativeToolTip": "ProCleanArchitecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-11T07:51:17.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T07:46:18.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:33:50.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:52:24.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProCleanArchitecture.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj",
+              "RelativeToolTip": "ProCleanArchitecture.Infrastructure\\ProCleanArchitecture.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T06:44:47.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProCleanArchitecture\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProCleanArchitecture\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-11T06:35:45.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ProCleanArchitecture.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj",
+              "RelativeToolTip": "ProCleanArchitecture.Application\\ProCleanArchitecture.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-11T05:41:59.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProCleanArchitecture.Application\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Yash\\source\\repos\\ProCleanArchitecture\\ProCleanArchitecture.Application\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProCleanArchitecture.Application\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T05:34:56.805Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
